@@ -42,4 +42,9 @@ Department of Computer Science and Engineering
 ---
 **CloudBackup – Secure Data. Reliable Recovery.**
 
-![image_alt]([https://github.com/nemaliscreddy78-glitch/KLH_CSE_Y25_2026-27_CDIS_S3_team-no-10-CloudBackup/blob/main/Poster!!.png?raw=true])
+## 📌 Project Poster
+
+<p align="center">
+  <img src="Poster%21%21.png" alt="CloudBackup Project Poster" width="800">
+</p>
+
