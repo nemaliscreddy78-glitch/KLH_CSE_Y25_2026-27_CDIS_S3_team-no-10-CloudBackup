@@ -35,7 +35,7 @@ To provide reliable data protection, reduce data loss, improve recovery speed, a
 3. **Aleti Sai Pranathi** – 2520030442
 
 ## Course Instructor
-** Dr. Vinay Kumar **
+- Dr. Vinay Kumar 
 
 
 ## 🎓 Institution
