@@ -42,4 +42,4 @@ Department of Computer Science and Engineering
 ---
 **CloudBackup – Secure Data. Reliable Recovery.**
 
-![image_alt]([https://github.com/Himavarshini-07/Ticket-Booking-System-DBSE-DBD/blob/main/Title.png?raw=true](https://github.com/nemaliscreddy78-glitch/KLH_CSE_Y25_2026-27_CDIS_S3_team-no-10-CloudBackup/blob/main/Poster!!.png?raw=true))
+![image_alt]([https://github.com/nemaliscreddy78-glitch/KLH_CSE_Y25_2026-27_CDIS_S3_team-no-10-CloudBackup/blob/main/Poster!!.png?raw=true])
