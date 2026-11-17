@@ -30,6 +30,10 @@ To provide reliable data protection, reduce data loss, improve recovery speed, a
 2. **Neemali Siri Chandana** – 2520030142
 3. **Aleti Sai Pranathi** – 2520030442
 
+## Course Instructor
+** Dr. Vinay Kumar **
+
+
 ## 🎓 Institution
 KLH University  
 Department of Computer Science and Engineering
